@@ -1,0 +1,13 @@
+server:
+  port: 8080
+  servlet:
+    context-path: /microservice1
+
+spring:
+  application:
+    name: micro-service-1
+  cloud:
+    loadbalancer:
+      ribbon:
+        enabled: false
+
