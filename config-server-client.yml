@@ -1,0 +1,4 @@
+attribute:
+  test: totomodifie
+server:
+  port: 7000

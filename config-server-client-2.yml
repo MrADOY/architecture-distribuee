@@ -1,0 +1,4 @@
+attribute:
+  test: ma_valeur
+server:
+  port: 8000
