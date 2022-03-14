@@ -1,4 +1,4 @@
 attribute:
-  test: totomodifiegithub
+  test: github-production
 server:
   port: 7000
