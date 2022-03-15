@@ -1,0 +1,4 @@
+attribute:
+  test: github-production
+server:
+  port: 7000
